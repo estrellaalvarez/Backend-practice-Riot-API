@@ -1,0 +1,24 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estrellaalvarez/Backend-practice-Riot-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estrellaalvarez/Backend-practice-Riot-API/issues"
+  },
+  "homepage": "https://github.com/estrellaalvarez/Backend-practice-Riot-API#readme",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "mongoose": "^6.6.1"
+  }
+}
